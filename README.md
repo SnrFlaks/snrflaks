@@ -1,4 +1,9 @@
-<h1 align="center">Hi there!</h1>
+<h1 align="center">Hi 👋, I'm Vova</h1>
+<h3 align="center">I'm Vova and I'm a 16 year old beginner programmer. I would love to work with you if the opportunity arises!</h3>
+
+- 🔭 I’m currently **don't work**
+
+- 🌱 I’m currently learning **C#**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/volodymyr-voloshin-a14b39264) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/SnrFlaks) 
