@@ -1,4 +1,12 @@
+<h1 align="center">Hi there!</h1>
 
+###
+
+<div align="center">
+  <img height="200" src="https://imgflip.com/gif/7qukbo"  />
+</div>
+
+###
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/volodymyr-voloshin-a14b39264) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/SnrFlaks) 
 
