@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vova</h1>
-<h3 align="center">I'm a 16 year old beginner programmer. I would love to work with you if the opportunity arises!</h3>
+<h3 align="center">I'm a 17 year old beginner programmer. I would love to work with you if the opportunity arises!</h3>
 
 - 🔭 I’m currently **don't work**
 
